@@ -1,6 +1,6 @@
 # Neuromatch Academy 2021
 
-Group project by Anna-Lena Schlenner, Shira Lupkin, Katrina Lee Bartas and Joaquin Herrera
+Group project by Anna-Lena Schlenner, Shira Lupkin, Katrina Lee Bartas and Joaquin Herrero
 
 Data provided by:
 
