@@ -6,7 +6,7 @@ My detailed analysis can be accessed in the **"NMA2021_Project" notebook**.
 \n
 
 Based on group project by Anna-Lena Schlenner, Shira Lupkin, Katrina Lee Bartas and Joaquin Herrero
-See "Presentationv1" for the final results of the group project.
+See "Presentation_NMA2021" for the final results of the group project.
 
 #### Data provided by:
 
